@@ -127,7 +127,6 @@ celerybeat.pid
 *.sage.py
 
 # Environments
-.env
 .venv
 env/
 venv/
@@ -181,3 +180,5 @@ data/
 workdir/
 
 others/
+config.bat
+node_modules
